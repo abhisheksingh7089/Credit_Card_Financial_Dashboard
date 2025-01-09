@@ -14,5 +14,3 @@ Insights: 1) December weekly revenue decreased by -12.8%
           6) 40.50 age group customer generating more revenue around $24M.
           7) Blue and silver card are contributing more.
           8) Most deliquent customer are selfemployed with number of 167. 
-          
-          
